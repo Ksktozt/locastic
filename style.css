@@ -1,8 +1,9 @@
 body {
 	padding: 10px;
+	border: solid 2px grey;
 }
 h1 {
-	color: navy;
+	color: firebrick;
 }
 p {
 	font-size: 15px;
