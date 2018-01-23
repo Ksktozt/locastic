@@ -1,11 +1,12 @@
 body {
 	padding: 10px;
 }
-
 h1 {
 	color: navy;
 }
-
 p {
 	font-size: 15px;
+}
+img {
+	border: solid 2px red;
 }
